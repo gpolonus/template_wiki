@@ -1,0 +1,10 @@
+status: complete
+title: $:/Import
+type: text/vnd.tiddlywiki
+
+The following tiddlers were imported:
+
+# [[$:/plugins/tiddlywiki/codemirror-closebrackets]]
+# [[$:/plugins/tiddlywiki/codemirror-closetag]]
+# [[$:/plugins/tiddlywiki/codemirror-search-replace]]
+# [[$:/plugins/tiddlywiki/codemirror-keymap-vim]]
