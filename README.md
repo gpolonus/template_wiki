@@ -3,7 +3,7 @@
 ## How to use
 
 ```
-degit gpolonus/template_wiki
+npx degit gpolonus/template_wiki wiki
 ```
 
 Via the [degit](https://github.com/Rich-Harris/degit) tool.
